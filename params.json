@@ -1,0 +1,1 @@
+{"name":"Raspberrypi","tagline":"20150804","body":"入手Pi比较晚了，同时也意味着前人的经验更丰富\r\n接触过的系统包括\r\nDSP：TMS320F2812 做同步电机模拟\r\n单片机: STM32 做无源无线测温系统\r\nOMAP138： 包括ARM9+DSP6747 做低压继电保护装置（基于linux）\r\nCycloneIV Fpga: 做测量及算法\r\nQT5编程\r\n现在玩PI的目的在于想网络开发展，把Linux玩通，并开始接触Python开发\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
